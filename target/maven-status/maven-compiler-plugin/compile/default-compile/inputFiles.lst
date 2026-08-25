@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\application\ports\out\InventoryPort.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\application\ports\out\OrderRepositoryPort.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\application\usecases\ProcessCoffeeOrderUseCase.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\domain\entities\CoffeeBean.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\domain\entities\exceptions\GranoNoEncontradoException.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\domain\entities\exceptions\StockInsuficienteException.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\domain\entities\Order.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\domain\enums\MetodoPreparacion.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\infrastructure\adapters\in\console\ConsoleOrderController.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\infrastructure\adapters\out\persistence\InMemoryInventoryAdapter.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\infrastructure\adapters\out\persistence\InMemoryOrderAdapter.java
+C:\Users\Usuario\Desktop\tostaduria\tostaduria\src\main\java\tostaduria\Main.java
